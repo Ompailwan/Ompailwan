@@ -99,39 +99,6 @@ Predictive analytics implementation with statistical modeling and evaluation
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ompailwan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ompailwan&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ompailwan&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ompailwan&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=73daca&point=f9e2af&area=true&hide_border=false" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ompailwan&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 🌱 Currently Learning & Working On
 
 - 🤖 Advanced Machine Learning & AI techniques
