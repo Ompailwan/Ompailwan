@@ -1,80 +1,187 @@
-# Hi there, I'm Om Pailwan! 👋
+# Hi there! 👋 I'm Om Pailwan
 
-## 🚀 Data & Cloud Enthusiast
+<div align="center">
 
-Welcome to my GitHub! I'm passionate about building robust data pipelines, scalable distributed systems, and cloud-native solutions that transform raw data into actionable business insights. I love architecting end-to-end data workflows and implementing cutting-edge data engineering practices.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Engineer+%26+Business+Analyst;MCIS+Graduate+%7C+GCP+Certified;Turning+Data+into+Insights;Always+Learning+New+Technologies)
 
-### 🛠️ Technology Stack
+</div>
 
-**Programming & Analytics**
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1E4F72?style=for-the-badge&logo=sas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Cloud Platforms**
-
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Databases & Data Warehouses**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
-
-**Big Data & Streaming**
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
-
-**DevOps & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🔥 Featured Data Engineering Projects
-- 🏦 **[Bank Data Analysis on Databricks](./BankDataAnalysis-Using-Databricks)** - Scalable analytics pipeline processing millions of banking transactions
-- 📈 **[Real-Time Stock Market Pipeline](./Stock-Market-Analysis-Using-kafka)** - Event-driven architecture using Kafka for high-frequency trading data
-- 🛍️ **[E-commerce Sales Analytics](./DiwaliSalesAnalysis)** - End-to-end ETL pipeline with advanced customer segmentation
-- 🤖 **[ML Model Implementation](./LinearRegression)** - Production-ready machine learning pipeline with automated retraining
-
-### 🏗️ Data Engineering Expertise
-- **Pipeline Architecture:** Batch & Stream Processing, ETL/ELT Design, Data Lake/Warehouse Architecture
-- **Distributed Computing:** Apache Spark, Hadoop Ecosystem, Parallel Processing Optimization
-- **Cloud Data Platforms:** GCP (BigQuery, Dataflow, Pub/Sub), AWS (Redshift, EMR, Kinesis)
-- **Data Orchestration:** Apache Airflow, Workflow Automation, Dependency Management
-- **DevOps & MLOps:** CI/CD for Data Pipelines, Container Orchestration, Infrastructure as Code
-
-### 📊 Current GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ompailwan&theme=dark)
-
-### 🎯 What I'm Building
-- 🔄 **Real-time Data Streaming Solutions** - Kafka-based event processing systems
-- ☁️ **Multi-Cloud Data Architectures** - Hybrid GCP/AWS data lake implementations
-- 🤖 **MLOps Pipelines** - Automated ML model deployment and monitoring
-- 📊 **Advanced Analytics Platforms** - Self-service BI and data democratization tools
-
-### 🌟 Key Achievements
-- Built data pipelines processing **10TB+ daily** across distributed clusters
-- Designed cloud architectures handling **millions of events/second**
-- Implemented ML models with **90%+ accuracy** in production environments
-- Led migration of legacy systems to modern cloud-native solutions
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ompailwan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ompailwan88@gmail.com)
+🎓 **Master of Computer Information Systems** graduate from Colorado State University (GPA: 3.47)  
+🏆 **Graduate Certificate in Business Intelligence**  
+☁️ **Google Cloud Certified Associate Cloud Engineer**  
+❄️ **Snowflake Certified**  
+📍 Based in **Denver, Colorado**  
+💼 **Open to opportunities** as Data Engineer & Business Analyst  
+🎯 **"Get stuff done"** attitude with strong customer management background  
 
 ---
-💡 *"Data engineering is the foundation that transforms raw data into strategic business advantage."*
+
+## 🏅 Certifications
+
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Certified-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![CSU](https://img.shields.io/badge/CSU-Business%20Intelligence%20Certificate-1B5E20?style=for-the-badge&logo=university&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Analytics & Data Science
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SAS](https://img.shields.io/badge/SAS-1f4e79?style=for-the-badge&logo=sas&logoColor=white)
+
+### Cloud & Data Systems
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+
+### Tools & Technologies
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+---
+
+## 🎯 Core Expertise
+
+<div align="center">
+
+| **Data Engineering** | **Business Analytics** | **Cloud Technologies** |
+|:---:|:---:|:---:|
+| ETL/ELT Pipelines | Business Intelligence | Google Cloud Platform |
+| Data Modeling | Power BI Dashboards | AWS & Azure |
+| Data Warehousing | Statistical Analysis | CI/CD for Data Pipelines |
+| Data Streaming | Requirement Gathering | Orchestration & Automation |
+| Apache Kafka | Risk Analysis | Vertex AI & ML Services |
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 📊 [Stock Market Analysis Using Kafka](https://github.com/Ompailwan/Stock-Market-Analysis-Using-kafka)
+Real-time stock market data streaming and analysis pipeline using Apache Kafka
+- **Tech:** Python, Apache Kafka, Data Streaming, Real-time Analytics
+
+### 🏦 [Bank Data Analysis Using Databricks](https://github.com/Ompailwan/BankDataAnalysis-Using-Databricks)
+Comprehensive banking data analysis with scalable processing on Databricks platform
+- **Tech:** Databricks, PySpark, Python, Advanced Analytics
+
+### 🎊 [Diwali Sales Analysis](https://github.com/Ompailwan/DiwaliSalesAnalysis)
+E-commerce sales analysis focusing on seasonal trends and customer behavior patterns
+- **Tech:** Python, Pandas, Data Visualization, Business Intelligence
+
+### 📈 [Linear Regression Analysis](https://github.com/Ompailwan/LinearRegression)
+Predictive analytics implementation with statistical modeling and evaluation
+- **Tech:** Python, Scikit-learn, Machine Learning, Statistical Analysis
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ompailwan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ompailwan&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ompailwan&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ompailwan&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=73daca&point=f9e2af&area=true&hide_border=false" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ompailwan&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning & Working On
+
+- 🤖 Advanced Machine Learning & AI techniques
+- ⚡ Real-time data processing with Apache Kafka
+- 🏗️ Modern data architecture patterns
+- 🔄 MLOps and automated ML pipelines
+- 📊 Advanced data visualization techniques
+
+---
+
+## 💼 What I'm Looking For
+
+🚀 **Data Engineer** opportunities focusing on:
+- Building scalable data pipelines
+- Cloud-native data solutions
+- Real-time streaming architectures
+- Data platform modernization
+
+📊 **Business Analyst** roles involving:
+- Data-driven decision making
+- Business intelligence solutions
+- Requirements gathering & analysis
+- Stakeholder management
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ompailwan/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ompailwan88@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ompailwan)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Turning data into actionable insights, one pipeline at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ompailwan&color=brightgreen&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ **From [Ompailwan](https://github.com/Ompailwan)** | 📍 Denver, CO | 🎯 Open to opportunities
+
+</div>
